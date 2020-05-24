@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1590331642 source:e:\snake\main.cpp
+	<iostream>
+	<ctime>
+	<vector>
+	<array>
+	<windows.h>
+	<conio.h>
+	<string>
+	"Source/coords.cpp"
+	"Source/snake.cpp"
+	"Source/map.cpp"
+	"Source/functions.cpp"
+
+1590331234 e:\snake\include\map.h
+
+1590331915 e:\snake\source\map.cpp
+	"../Include/map.h"
+
+1590330519 e:\snake\include\main.h
+	<ctime>
+	<vector>
+	<array>
+	<windows.h>
+	<conio.h>
+	<string>
+
+1590331408 e:\snake\source\coords.cpp
+	"../Include/coords.h"
+
+1590331654 e:\snake\include\coords.h
+
+1590331614 e:\snake\source\snake.cpp
+	"../Include/snake.h"
+
+1590331246 e:\snake\include\snake.h
+
+1590332112 e:\snake\source\functions.cpp
+
